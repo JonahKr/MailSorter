@@ -1,0 +1,24 @@
+{
+  "name": "mailsorter",
+  "version": "0.1.0",
+  "description": "Mail sorting programm, for mail attachments.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonahKr/MailSorter.git"
+  },
+  "keywords": [
+    "Sorter",
+    "Mail",
+    "Imap"
+  ],
+  "author": "Jonah Kraushaar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonahKr/MailSorter/issues"
+  },
+  "homepage": "https://github.com/JonahKr/MailSorter#readme"
+}

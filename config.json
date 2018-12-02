@@ -1,8 +1,0 @@
-{
-    "user": "username/email",
-    "password":"password",
-    "host":"your.host.imapdomain",
-    "port": 993,
-    "tls": true,
-    "prefix":["YOUR_SUBJECT_PREFIX"]
-}

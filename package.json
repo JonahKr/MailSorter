@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/JonahKr/MailSorter/issues"
   },
-  "homepage": "https://github.com/JonahKr/MailSorter#readme"
+  "homepage": "https://github.com/JonahKr/MailSorter#readme",
+  "dependencies": {
+    "imap": "^0.8.19",
+    "mailparser": "^2.4.3"
+  }
 }
